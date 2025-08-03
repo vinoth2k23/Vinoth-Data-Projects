@@ -1,36 +1,44 @@
-# Vinoth's Data Analyst Projects
+# 📊 Vinoth's Data Analyst Projects
 
-This repository contains a collection of beginner-friendly Data Analyst projects to showcase my skills in data cleaning, visualization, machine learning, and business insights.
+Welcome to my data analytics portfolio! This repository showcases beginner-friendly to intermediate-level projects that demonstrate my skills in:
 
----
-
-##Projects Included
-
-### 1.Twitter Sentiment Analysis
-- *Tech:* Python, Tkinter GUI
-- *Goal:* Analyze user-entered text to detect emotions
-- *Files:* app.py, emotion_lexicon.txt, README.md
+- 🐍 Python for data cleaning, analysis, and visualization
+- 📊 Power BI for interactive business dashboards
+- 📈 Microsoft Excel for KPI reporting and trend analysis
 
 ---
 
-### 2.Sales Dashboard
-- *Tech:* Power BI
-- *Goal:* Visualize KPIs such as Total Sales, Profit, Region-wise Analysis
-- *File:* SalesDashboard.pbix
+## 📁 Projects Included
+
+### 1. **Sales Insights using Python**
+- Tools: Pandas, Matplotlib, Seaborn
+- Tasks: Data Cleaning, EDA, Visualizations
+- Outcome: Insights into customer behavior and product trends
+
+### 2. **HR Analytics Dashboard – Power BI**
+- Tools: Power BI, DAX, Power Query
+- Tasks: Employee attrition analysis
+- Features: Slicers, KPIs, Filters, and Drill-down visuals
+
+### 3. **Excel Sales Report**
+- Tools: Excel, Pivot Tables, Charts, Conditional Formatting
+- Tasks: Product category analysis, region-wise sales, trends
+- Outcome: Executive-friendly dashboard with slicers
 
 ---
 
-### 3.Customer Churn Prediction
-- *Tech:* Python (pandas, scikit-learn)
-- *Goal:* Predict which customers are likely to leave
-- *Files:* Jupyter Notebook + Sample Dataset
+## 📄 Resume
+You can view my resume here: [VINOTH V resume.docx](./VINOTH%20V%20resume.docx)
 
 ---
 
-##Skills Used
+## 🌐 Live Portfolio Website
+🚀 [View my GitHub Portfolio Site](https://vinoth2k23.github.io/Vinoth-Data-Projects/)
 
-- Excel, SQL
-- Python
-- Power BI
-- Data Cleaning & EDA
-- Basic Machine Learning
+---
+
+## 📫 Contact Me
+
+- Email: vinothvimal305@gmail.com  
+- LinkedIn: [Your LinkedIn URL]  
+- GitHub: [https://github.com/vinoth2k23](https://github.com/vinoth2k23)
